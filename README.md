@@ -1,4 +1,4 @@
-## App Perguntas ⁉️
+## App Perguntas
 
 <i>Aplicativo de perguntas desenvolvido com Framework Flutter.</i>
 <p>Neste projeto, foi utilizado os seguintes recursos:</p>
