@@ -1,13 +1,13 @@
 ## App Perguntas
 
-<i>Aplicativo de perguntas desenvolvido com Framework Flutter.</i>
-<p>Neste projeto, foi utilizado os seguintes recursos:</p>
-<ul>
-  <li>StatefullWidget</li>
-  <li>setState function</li>
-  <li>Componentização de Widgets</li>
-  <li>Private variables</li>
-  </ul>
+Aplicativo de perguntas desenvolvido com Framework Flutter
+<p>Neste projeto foi utilizado os seguintes recursos:</p>
+
+- StatefullWidget
+- setState function
+- Componentização de Widgets
+- Private variables
+
   
 
 ![Captura de tela de 2022-02-12 12-29-25](https://user-images.githubusercontent.com/99498850/153717518-639ef642-b094-40cf-9349-ec072c3313dc.png)
